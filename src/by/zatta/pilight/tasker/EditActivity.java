@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 package by.zatta.pilight.tasker;
-=======
-package com.frostedkiwi.pilightplugin;
->>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
 =======
 package com.frostedkiwi.pilightplugin;
 >>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
@@ -15,10 +11,7 @@ import android.widget.RadioGroup;
 import android.app.Activity;
 import android.content.Intent;
 <<<<<<< HEAD
-<<<<<<< HEAD
 import by.zatta.pilight.R;
-=======
->>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
 =======
 >>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
 
@@ -36,11 +29,7 @@ public class EditActivity extends Activity {
 		final Bundle localeBundle = getIntent().getBundleExtra(com.twofortyfouram.locale.Intent.EXTRA_BUNDLE);
 		
 <<<<<<< HEAD
-<<<<<<< HEAD
 		setContentView(R.layout.tasker_edit_activity_layout);
-=======
-		setContentView(R.layout.activity_edit);
->>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
 =======
 		setContentView(R.layout.activity_edit);
 >>>>>>> 5f32e04d34cc4fb985bda2a40e6171d1abeaea2c
